@@ -9,3 +9,6 @@
 # HW4: Matrix Multiplication(CUDA)
 
 # HW5: Sum Reductoin
+
+# Personal: InnerProduct
+blog: http://crigg8.tistory.com/1
